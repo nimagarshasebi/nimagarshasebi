@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋 I'm Nima Garshasebi
 🚀 **Welcome to My Special Repository!**  
 
 I'm a **software developer & AI enthusiast** with a background in **Computer Engineering (B.Sc.)** and **Artificial Intelligence & Robotics (M.Sc.)**. I specialize in **web development**, while also having a strong passion for **machine learning and computer vision**.  
