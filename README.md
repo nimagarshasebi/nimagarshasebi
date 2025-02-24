@@ -1,9 +1,4 @@
 ## Hi there 👋
-
-<!--
-**nimagarshasebi/nimagarshasebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 🚀 **Welcome to My Special Repository!**  
 
 I'm a **software developer & AI enthusiast** with a background in **Computer Engineering (B.Sc.)** and **Artificial Intelligence & Robotics (M.Sc.)**. I specialize in **web development**, while also having a strong passion for **machine learning and computer vision**.  
